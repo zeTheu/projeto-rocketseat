@@ -190,7 +190,7 @@ footer{
 
 @keyframes slide-back {
   from {
-    right: 50%;
+    left: 50%;
   }
   to {
     left: 0;
